@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Eliana Barenboym
+
+I am a Finance and Business Analytics student at the University of South Florida.
+
+## Interests
+- Business analytics
+- Finance
+- Technology
+- Software development
+
+## Currently Learning
+- Git & GitHub
+- VS Code
+- HTML/CSS
+- Python## Hi there 👋
 
 <!--
 **ebarenboym/ebarenboym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
