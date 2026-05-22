@@ -12,7 +12,8 @@ I am a Finance and Business Analytics student at the University of South Florida
 - Git & GitHub
 - VS Code
 - HTML/CSS
-- Python## Hi there 👋
+- Python
+
 
 <!--
 **ebarenboym/ebarenboym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
